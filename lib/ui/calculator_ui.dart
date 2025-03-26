@@ -38,7 +38,7 @@ class _CalculatorUIState extends State<CalculatorUI> {
               child: Text(
                 _output,
                 style: const TextStyle(
-                  fontSize: 50,
+                  fontSize: 49,
                   color: Colors.white,
                   fontWeight: FontWeight.bold,
                 ),
